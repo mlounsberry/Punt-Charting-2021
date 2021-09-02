@@ -33,7 +33,7 @@ number_of_rushers: Number of players that rushed the punter.
 
 punter_pressured: Was the punter pressured? 0 = No, 1 = Yes
 
-punter_pressured_by_player_name: Name of the player that applied the pressure. ex. B.Boykin
+punter_pressured_by_player_name: Name of the player that applied the pressure. ex. 'B.Boykin'
 
 punter_hit: Was the punter hit? 0 = No, 1 = Yes
 
